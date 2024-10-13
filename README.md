@@ -39,7 +39,7 @@ To run this example:
 1. Run the script `./request.sh` and it will tell you the parameters you need to enter. It will essentially:
    - Authenticate with the managed identity.
    - Create a blob container named `hello-world-container`.
-   - Createa a new blob inside the `hello-world-container` called `HelloWorldBlob.txt`.
+   - Create a a new blob inside the `hello-world-container` called `HelloWorldBlob.txt`.
 1. You should see output similar to this:
    ![Output of running the requests script](./images/output.png)
 1. Exit the connection from the session with `ctrl+d`.
